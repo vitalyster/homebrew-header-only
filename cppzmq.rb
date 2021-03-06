@@ -2,7 +2,7 @@ class Cppzmq < Formula
   desc "C++ bindings for ZeroMQ"
   homepage "https://github.com/zeromq/cppzmq"
   url "https://github.com/zeromq/cppzmq/archive/v4.7.1.tar.gz"
-  sha256 "e9ca2e6a484a8a27eecb3e8576e341926bf734a4d04adc82236be59e79988b59"
+  sha256 "9853e0437d834cbed5d3c223bf1d755cadee70e7c964c6e42c4c6783dee5d02c"
   depends_on "zeromq"
 
   def install
